@@ -1,0 +1,21 @@
+/* GLOBAL STYLING */
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100vh;
+}
+
+body {
+  margin: 0;
+  background-color: #fff;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* MAIN STYLING */
